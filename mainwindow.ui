@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Program</string>
+   <string>Colors Difference</string>
   </property>
   <widget class="QWidget" name="centralWidget">
    <widget class="QPushButton" name="Open1">
@@ -134,7 +134,7 @@
    </property>
    <widget class="QMenu" name="menuFile">
     <property name="title">
-     <string>Plik</string>
+     <string>File</string>
     </property>
     <addaction name="Save"/>
     <addaction name="SaveAs"/>

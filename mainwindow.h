@@ -9,7 +9,6 @@
 #include <QColor>
 #include <QProgressBar>
 #include <QtMath>
-#include <QTextStream>          //przekazywanie tablicy odległości do strumienia tekstowego
 
 namespace Ui
 {
